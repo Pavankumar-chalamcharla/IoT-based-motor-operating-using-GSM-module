@@ -27,15 +27,7 @@ This system is ideal for farmers who want to control irrigation pumps remotely w
 
 ---
 
-## Circuit Diagram
-*Insert your circuit diagram or schematic here*
 
-- Connect SIM900A TX to Arduino RX (Pin 7)
-- Connect SIM900A RX to Arduino TX (Pin 8)
-- Relay IN connected to Arduino digital pin (e.g., Pin 9)
-- Motor connected to relay output
-
----
 
 ## Installation & Setup
 1. Insert the SIM card into SIM900A module.
